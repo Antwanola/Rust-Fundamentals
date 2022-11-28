@@ -2,9 +2,11 @@
 // mod vars;
 // mod types;
 // mod strings;
-mod tuples;
+// mod tuples;
+// mod arrays;
+mod vectors;
 fn main() {
     // print::run();
     // vars::declare_name();
-    tuples::tuples();
+    vectors::vectors();
 }
